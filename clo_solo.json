@@ -1,0 +1,3332 @@
+{
+    "clo:miners:0x00059459048d38bd566cbc90c0d859c2d27d5e31": {
+        "type": "hash",
+        "value": {
+            "immature": "347976562500",
+            "balance": "33769889023500"
+        }
+    },
+    "clo:miners:0x004f6c62200d001d2b6c01319f141c2d2b4d25b1": {
+        "type": "hash",
+        "value": {
+            "immature": "347976562500",
+            "balance": "33769889023500"
+        }
+    },
+    "clo:miners:0x00fb580b711acd39d46b3913fac254d6d1969e05": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763389",
+            "blocksFound": "50",
+            "immature": "0",
+            "balance": "14531212500000"
+        }
+    },
+    "clo:miners:0x0134e2a29f59a917b9e3a9bec67ef54a9c90bb9a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761500",
+            "blocksFound": "125",
+            "immature": "0",
+            "balance": "27808396875000"
+        }
+    },
+    "clo:miners:0x01691c6504f3fed7ff5545ae1d923a6fe1837f05": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763424",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "2378775000000"
+        }
+    },
+    "clo:miners:0x018b9bd74d73f02e338612eeff2326729dde4004": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "88",
+            "immature": "0",
+            "balance": "19534434108000"
+        }
+    },
+    "clo:miners:0x01be2df934ef8ce741e54ee1100f61fa5dabc674": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763338",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "723975000000"
+        }
+    },
+    "clo:miners:0x031c7ac030ef79c9278fef34979fdc2efd64672f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "1483",
+            "immature": "413700000000",
+            "balance": "294955246341000"
+        }
+    },
+    "clo:miners:0x033fd2973adbbddc2acadee3d3ae59446e8a443d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758538",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "361987500000"
+        }
+    },
+    "clo:miners:0x0417e776fafaa5e68e7ce5c27938a1c2c31ae3b9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763074",
+            "blocksFound": "769",
+            "immature": "0",
+            "balance": "179080424733000"
+        }
+    },
+    "clo:miners:0x04aebfed6956fdca16754800a0eeee91e3e1f55c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "85",
+            "immature": "0",
+            "balance": "19081912500000"
+        }
+    },
+    "clo:miners:0x055422b08fa10abb08b6879cf3140ce6503ea8b4": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x05efddced372190c18360085daf3308423097037": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763439",
+            "blocksFound": "23",
+            "immature": "0",
+            "balance": "5132465625000"
+        }
+    },
+    "clo:miners:0x067a21cdcf293c764a93cd9dcf36bbd307e13eee": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763447",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x068d290b40563752b7542e4f76b208a3e6b0a299": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763316",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "1047178125000"
+        }
+    },
+    "clo:miners:0x069de03d9b0495dd852c04dab60e2ae07a999c9c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762539",
+            "blocksFound": "22",
+            "immature": "0",
+            "balance": "5740124733000"
+        }
+    },
+    "clo:miners:0x08195529506355dc24073c3f28c6431ca7a35551": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763162",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x090d5d5bb2759656bbb426aa5fc8d033e8c0688d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "713",
+            "immature": "3154462500000",
+            "balance": "169823850000000"
+        }
+    },
+    "clo:miners:0x091648ef29af1627093bab81066d74f088b52cc9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760996",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "1189387500000"
+        }
+    },
+    "clo:miners:0x0923bd4f01e5b3bd1a9f0fdb1e85c8680605728c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759658"
+        }
+    },
+    "clo:miners:0x09d46eb20b46d307029035a18007cdf03a33bf55": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763335",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x0a80200b4e6db7c639d8cef767388109523343fd": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762374",
+            "blocksFound": "39",
+            "immature": "0",
+            "balance": "7485384375000"
+        }
+    },
+    "clo:miners:0x0b226ea05d410ebbb3537d50a9e48ac10b30919a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523756476",
+            "blocksFound": "5",
+            "immature": "0",
+            "balance": "1266956250000"
+        }
+    },
+    "clo:miners:0x0b62a78ce60c202f6918e183d7ec20d678390eef": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "5300531250000"
+        }
+    },
+    "clo:miners:0x0b73f1dc6fe987e90f57be3774eef67d5ea264aa": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523752266",
+            "blocksFound": "4"
+        }
+    },
+    "clo:miners:0x0bf583a4094fba6a8380d0685784b7e11170d862": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763443",
+            "blocksFound": "21",
+            "immature": "0",
+            "balance": "4343850000000"
+        }
+    },
+    "clo:miners:0x0bfc9624aa3b445c02dbee66c7ca798eaf962ace": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "162",
+            "immature": "0",
+            "balance": "33018431250000"
+        }
+    },
+    "clo:miners:0x0ce8c92c87b76a09fc4a7e6032ae599700db2d69": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753575",
+            "blocksFound": "3"
+        }
+    },
+    "clo:miners:0x0eb3726752e7d68d815a3959bb47caff778ede59": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763030",
+            "blocksFound": "61",
+            "immature": "0",
+            "balance": "3917259108000"
+        }
+    },
+    "clo:miners:0x0ed36d6e5ceb6d3e627bc39425bab70bf4f906b5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523751616",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x100320b7086510db196ad73efabc3653436a4070": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763119",
+            "blocksFound": "204",
+            "immature": "0",
+            "balance": "42494784108000"
+        }
+    },
+    "clo:miners:0x11bbdcbc4336f907073fe935a4fcdeda7e6d52df": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759198"
+        }
+    },
+    "clo:miners:0x122aee9d5be29724b0148003490fc2ef2f5570d7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "22",
+            "immature": "0",
+            "balance": "3219103125000"
+        }
+    },
+    "clo:miners:0x12b66999068f10d03192fa952d2357e4acc57771": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "23",
+            "immature": "0",
+            "balance": "8390353125000"
+        }
+    },
+    "clo:miners:0x12f46a3d24eb7b4294c3ee8548d7e41dd0705aa0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "76",
+            "immature": "0",
+            "balance": "18771637500000"
+        }
+    },
+    "clo:miners:0x13041c62461d93311fefbeb72758b70663bd57b4": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763293",
+            "blocksFound": "27",
+            "immature": "0",
+            "balance": "3361312500000"
+        }
+    },
+    "clo:miners:0x1349d8675d82f06f99fcf8b1a50e2c52fd426a7f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "62",
+            "immature": "0",
+            "balance": "19301690625000"
+        }
+    },
+    "clo:miners:0x142021010b25f99d533078e4f27373e4828f326d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759128"
+        }
+    },
+    "clo:miners:0x15615b76e4ceb955d12a47c1de7ee48082c1b45d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763449",
+            "blocksFound": "29",
+            "immature": "0",
+            "balance": "6412350000000"
+        }
+    },
+    "clo:miners:0x15f969bcbd238257eefbc6d40a4ff141e3b6f6e5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758762",
+            "blocksFound": "16",
+            "immature": "0",
+            "balance": "1758225000000"
+        }
+    },
+    "clo:miners:0x1664fbef228850e8ad8a1c8640c6a47278afa223": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758850"
+        }
+    },
+    "clo:miners:0x16e9f95d902c51ea50706974eb85a1118e813cc7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754420",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "866184375000"
+        }
+    },
+    "clo:miners:0x184ea50df6eb803894021d19cf3f07415ace5aad": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "1",
+            "immature": "361987500000"
+        }
+    },
+    "clo:miners:0x18e0469ec6a9c54be1d04a94f1c107198eed2915": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763061",
+            "blocksFound": "91",
+            "immature": "0",
+            "balance": "31570481250000"
+        }
+    },
+    "clo:miners:0x1929a66f3da7b84350e7a72dce9e63b4d01b0523": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "75",
+            "immature": "0",
+            "balance": "15384505983000"
+        }
+    },
+    "clo:miners:0x1ad68ab5f2feea77ec934d0a5d25866069c00d89": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760332",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "840328125000"
+        }
+    },
+    "clo:miners:0x1b31f016424ccd9a199524d8d8b6f3b4e11334e8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763418",
+            "blocksFound": "3"
+        }
+    },
+    "clo:miners:0x1b725234bdc152c0cfef8d8ae699ba7619a49820": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "23",
+            "immature": "413700000000",
+            "balance": "6464062500000"
+        }
+    },
+    "clo:miners:0x1c27a9a4e38a7e0a134776d7c3decd51ca589006": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763396"
+        }
+    },
+    "clo:miners:0x1ce5dec03480d79f32ac3483d6c4b119c828e7c6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759468",
+            "blocksFound": "5",
+            "immature": "0",
+            "balance": "1590159375000"
+        }
+    },
+    "clo:miners:0x1f10a76c27a1a47e1a50cf5143164aac948e2618": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763355",
+            "blocksFound": "19",
+            "immature": "0",
+            "balance": "3102750000000"
+        }
+    },
+    "clo:miners:0x1f73204ec7c74b02bf5650cd3c13e84491df830b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753517",
+            "blocksFound": "4"
+        }
+    },
+    "clo:miners:0x1fd478cab18f7e569938a0e5cd13bf16baedd19e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0x201e77c3c58c089df758b6854390001980d14544": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761448"
+        }
+    },
+    "clo:miners:0x20e7eb776eacae248535b3debe4d69e907dd5a19": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763447",
+            "blocksFound": "34",
+            "immature": "413700000000",
+            "balance": "8429137500000"
+        }
+    },
+    "clo:miners:0x21868c2733720151829fe89654f152c378fc7e05": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759094",
+            "blocksFound": "73",
+            "immature": "0",
+            "balance": "21602896875000"
+        }
+    },
+    "clo:miners:0x239c05874cfc11a98f21678e12b04b57499c2a97": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763221",
+            "blocksFound": "53",
+            "immature": "0",
+            "balance": "8506706250000"
+        }
+    },
+    "clo:miners:0x23a10f992e73fcc42b227b2934e10d0ec1643fa5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758439",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0x24057ae094a35208c1acb89f44790efa4f1ce568": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755800",
+            "blocksFound": "3"
+        }
+    },
+    "clo:miners:0x24876a92e6a6a2691d886780bbf8b35c525405a8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755238",
+            "blocksFound": "18",
+            "immature": "0",
+            "balance": "1034250000000"
+        }
+    },
+    "clo:miners:0x275c308abec06b925eaf36238f4c3db8e57295c5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763443",
+            "blocksFound": "186",
+            "immature": "0",
+            "balance": "41770846341000"
+        }
+    },
+    "clo:miners:0x27bc2f624d54345ce2ee31c2ef26e0974b2ed7a6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763411",
+            "blocksFound": "70",
+            "immature": "0",
+            "balance": "14582962233000"
+        }
+    },
+    "clo:miners:0x2896abe8ba26b9395a80af379f51a9d33f583c8a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "5",
+            "immature": "0",
+            "balance": "723975000000"
+        }
+    },
+    "clo:miners:0x2b26b350ca00dfc5bcf23641a450104a9964ad12": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "131",
+            "immature": "0",
+            "balance": "29489127591000"
+        }
+    },
+    "clo:miners:0x2ca856d8e69db04a2c0cff8cef495cbccf67131c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762719",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "2443415625000"
+        }
+    },
+    "clo:miners:0x2da2443ebb091e55b5dbca9926e99bf1b1d8e7e9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759013"
+        }
+    },
+    "clo:miners:0x2e8ba3738b686ee52c283af5bee50e029e4e30c8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763417",
+            "blocksFound": "42",
+            "immature": "0",
+            "balance": "10704487500000"
+        }
+    },
+    "clo:miners:0x2f0c19d01d4551813a87a6037437be24a07a3957": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "52",
+            "immature": "0",
+            "balance": "16897059375000"
+        }
+    },
+    "clo:miners:0x305d1fbac16dfa86e6bd090e2250ba2ec4f9f8a2": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758195",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x30a2ebd372ade8b023411756b796f651d29b2567": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763375",
+            "blocksFound": "12",
+            "immature": "0",
+            "balance": "2921756250000"
+        }
+    },
+    "clo:miners:0x30bd832b6fd39f147775b26cf99ca606dccb0890": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763376",
+            "blocksFound": "79",
+            "immature": "0",
+            "balance": "17323724733000"
+        }
+    },
+    "clo:miners:0x312e08fe29177be730756cef0f7dd18a082b537b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763391",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "1861650000000"
+        }
+    },
+    "clo:miners:0x31a54c3702bd6ea0b953da06be1e3e1e7720c192": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758467"
+        }
+    },
+    "clo:miners:0x322bccf1d7fc39223fd6154e91c07686cc1888f0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "118",
+            "immature": "0",
+            "balance": "26037243750000"
+        }
+    },
+    "clo:miners:0x322c3fb15c89637e3516cc5488bd932d2d03e27d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754316",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x322c5f258cb4d061d424ebb1ded3468c90966774": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763140",
+            "blocksFound": "23",
+            "immature": "0",
+            "balance": "8080078125000"
+        }
+    },
+    "clo:miners:0x32d98ae2265f026ddacf35131ff8bf333843f316": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763443",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x33a839f99315eba4e797add62def946c80f35bba": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763388",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "439556250000"
+        }
+    },
+    "clo:miners:0x341155224a1f2856d8b49d0b2334520f12be0717": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763412",
+            "blocksFound": "39",
+            "immature": "0",
+            "balance": "8829946608000"
+        }
+    },
+    "clo:miners:0x3473800f1f4590f933c02cbdfe3706f4e7f82cc7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763437",
+            "blocksFound": "205",
+            "immature": "0",
+            "balance": "44007337500000"
+        }
+    },
+    "clo:miners:0x34faaa028162c4d4e92db6abfa236a8e90ff2fc3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763199",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "1473806250000"
+        }
+    },
+    "clo:miners:0x3509f7bd9557f8a9b793759b3e3bfa2cd505ae31": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "1758225000000"
+        }
+    },
+    "clo:miners:0x351cc246c7e6a0959efa344f62c30e1b9ae8c938": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763254",
+            "blocksFound": "25",
+            "immature": "0",
+            "balance": "3089859108000"
+        }
+    },
+    "clo:miners:0x36939c5df446f541d48b05cf4b871a373234a64f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763449",
+            "blocksFound": "288",
+            "immature": "0",
+            "balance": "78292725000000"
+        }
+    },
+    "clo:miners:0x36ae810fb33203ecdc2f540dda2831d9dad7be0e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763433",
+            "blocksFound": "34",
+            "immature": "0",
+            "balance": "5584950000000"
+        }
+    },
+    "clo:miners:0x36ef358c9b0292d32ce059304b367b902a029499": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763412",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "3115715358000"
+        }
+    },
+    "clo:miners:0x370bd38bedc1d65a473a4ac9193fb5a6ebb893d0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763374",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "3102750000000"
+        }
+    },
+    "clo:miners:0x37e68578c75afa63a3525aa527a241fc2e1f63c3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "126",
+            "immature": "0",
+            "balance": "24873712500000"
+        }
+    },
+    "clo:miners:0x385b31f77d0f82cc3f618d667dff204bab4e4339": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763436",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "2701978125000"
+        }
+    },
+    "clo:miners:0x38a13d72fb86718296d730e598f377bbb2a5b8fd": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755958",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "723975000000"
+        }
+    },
+    "clo:miners:0x38b731eece6a87f76867591a0a532f71adeac52c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763415",
+            "blocksFound": "18",
+            "immature": "1667728125000",
+            "balance": "3891365625000"
+        }
+    },
+    "clo:miners:0x38f059dff5afb8f0645cadac0b639a28191a59b7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763282",
+            "blocksFound": "11",
+            "immature": "0",
+            "balance": "982537500000"
+        }
+    },
+    "clo:miners:0x3b14e61fed87488c6d296d895798e6c67e578a31": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523751817",
+            "blocksFound": "5"
+        }
+    },
+    "clo:miners:0x3c0a813db2d248aea96c306e2363b27c1ee6bf0c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760367",
+            "blocksFound": "16",
+            "immature": "0",
+            "balance": "3529378125000"
+        }
+    },
+    "clo:miners:0x3c5b1c72972d90493fc3d74e283016aa8ad145c6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763429",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0x3d3b4a38cad44c2b77daac1d746124d2e2b8a27c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759909"
+        }
+    },
+    "clo:miners:0x3e1388ad524b77250ed65dd444e4ffd12668255a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763406"
+        }
+    },
+    "clo:miners:0x3f470c3227eccf325c46fbac987efa494cd87b4e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761261"
+        }
+    },
+    "clo:miners:0x3f5f6e3a89a5323f7a43132e3fc025f5d3287763": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759019",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0x3fbcfa24f9cd005831644fef385f7d02beea4f3e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763446",
+            "blocksFound": "174",
+            "immature": "0",
+            "balance": "49010521875000"
+        }
+    },
+    "clo:miners:0x3fc1fa6d564e70dc2cc8366654241df45eca6e77": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759574",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "1254028125000"
+        }
+    },
+    "clo:miners:0x429c418e9a7a54764afad88edbcbc8c01ece2550": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763441",
+            "blocksFound": "33",
+            "immature": "0",
+            "balance": "8157646875000"
+        }
+    },
+    "clo:miners:0x4454372e772276b67cf0f0fbccb6767d3975b980": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759228",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "1150603125000"
+        }
+    },
+    "clo:miners:0x44931b64de589fde507131408a0067eb6df9dd3d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761853",
+            "blocksFound": "38",
+            "immature": "0",
+            "balance": "6606271875000"
+        }
+    },
+    "clo:miners:0x4535fcc6f73456f62ba64d27157526c63a184da0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763334"
+        }
+    },
+    "clo:miners:0x46067cc3a6f6fc8d5c95376ca36e2f38050d4e42": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762591",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "439556250000"
+        }
+    },
+    "clo:miners:0x460b9d2aa78e5f742a472ae04d997a3e1ef0fe6b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762337"
+        }
+    },
+    "clo:miners:0x4937515abc60a2f1c3e79b70392e49668e72866f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762890"
+        }
+    },
+    "clo:miners:0x498e23b01b8a0b132fe559cecd10d534910a90bb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755615",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0x4a7d95f191ca780a4e2daaff7e9636f0333cec88": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753654",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x4b354002b91f6e4cab4aaa36cf68583abc9dac53": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755781",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0x4c18e3ba1c3124dabe88c58bf09c3f51e1da018a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763443",
+            "blocksFound": "63",
+            "immature": "413700000000",
+            "balance": "10019296875000"
+        }
+    },
+    "clo:miners:0x4ccffcc4e4c466a10878080c4149d671ca9da16c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "14",
+            "immature": "0",
+            "balance": "5623734375000"
+        }
+    },
+    "clo:miners:0x4d0437b434b9157c0913d4c3cb323536ea624a0d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762208"
+        }
+    },
+    "clo:miners:0x4e6245417a05d55e0d979117ce85c75dfd0de7a9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763411",
+            "blocksFound": "94",
+            "immature": "0",
+            "balance": "23917031250000"
+        }
+    },
+    "clo:miners:0x4f2c20e1f113a588b1141e6fd0f3c64b3174b570": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "56",
+            "immature": "258562500000",
+            "balance": "13005693750000"
+        }
+    },
+    "clo:miners:0x4f3db1d8c84e0098339441adc26578e7dcdac648": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759556",
+            "blocksFound": "1088",
+            "immature": "0",
+            "balance": "137646081972000"
+        }
+    },
+    "clo:miners:0x50befb589954e3c555f725a2d31adf0955356bbb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754565",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x51859ecc94537bc73722aa622e1dcc1b72e6d9e2": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523756445",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x51d975a160a66e8bf9376adee661705664be6f71": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "840328125000"
+        }
+    },
+    "clo:miners:0x526b571309c76f3b544711fa46d0fce214163972": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x52ced09231b40222f2ee6d2658cccb6976f73340": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763438",
+            "blocksFound": "31",
+            "immature": "0",
+            "balance": "4705837500000"
+        }
+    },
+    "clo:miners:0x52d16be46fb2541cf419e4d644dd165a5f715549": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763429"
+        }
+    },
+    "clo:miners:0x5316ec262bade6733574bba16693c49eae7bc0d9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763398",
+            "blocksFound": "35",
+            "immature": "0",
+            "balance": "11286253125000"
+        }
+    },
+    "clo:miners:0x535179a686ed1344ce29da74d0121a4a6ab08e02": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "30",
+            "immature": "0",
+            "balance": "5843512500000"
+        }
+    },
+    "clo:miners:0x53a14429492f9d0a2f8d9d6593f644c83a57c4af": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754698",
+            "blocksFound": "20",
+            "immature": "0",
+            "balance": "1215243750000"
+        }
+    },
+    "clo:miners:0x53c86f82f5c79b5fb5c42feb18fe1a5d13fd8b88": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759355"
+        }
+    },
+    "clo:miners:0x53f77791f34d70d6fede56993adcd3a95b3e23c8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763423",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x54e8e37786929c849a719186fb871fbc80712e62": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "75",
+            "immature": "0",
+            "balance": "15875737500000"
+        }
+    },
+    "clo:miners:0x5574230e9022655f7ef9275bdc093d13089e28c7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523751775",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "310275000000"
+        }
+    },
+    "clo:miners:0x55923fc3b8df338dcbc8e6c6a4a8ecefa1063bdb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763442",
+            "blocksFound": "54",
+            "immature": "0",
+            "balance": "13522818750000"
+        }
+    },
+    "clo:miners:0x56e80bff86ac3e4746381885dea793af3a78fe40": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0x575ab10d642e4a0936eef34287cc637c7fd739d6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760510",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x58a897f8d8359816682c87dfc0102399dce94eaf": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763395",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "3206175000000"
+        }
+    },
+    "clo:miners:0x593cc4eee7ee9bc567eb7bf8f35676810c4c3e1e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763447",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0x597d0ba11b10f08b0bd3669d5f86c436de0d67f1": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763444",
+            "blocksFound": "37",
+            "immature": "0",
+            "balance": "7705162500000"
+        }
+    },
+    "clo:miners:0x59cd0c11191b80f39b48dbd09b6bd6869de70093": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753463",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "258562500000"
+        }
+    },
+    "clo:miners:0x5b8c8e36282226aa2e9f15c0a17ff2ac1309519a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763302",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0x5c30f564668f646ea1e19d1f808a0e17bddba480": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763449",
+            "blocksFound": "26",
+            "immature": "0",
+            "balance": "6270140625000"
+        }
+    },
+    "clo:miners:0x5c9ca1314e8c59b414c336784bb6b54517c202d2": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763433",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "4679981250000"
+        }
+    },
+    "clo:miners:0x5e8bcdb6aa95c45aa403b0d7ef3df09796006809": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755225",
+            "blocksFound": "5"
+        }
+    },
+    "clo:miners:0x5f7b82606f0cb6a51c13fdbc1d40997a4f8eab4b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523751347",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x5fa042b489b3fb53b068f5b6de3f0146c32c6885": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "3710371875000"
+        }
+    },
+    "clo:miners:0x5fac8d3e8a6fcffefd9d486b042ea2809f0b848c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763383",
+            "blocksFound": "20",
+            "immature": "0",
+            "balance": "6386493750000"
+        }
+    },
+    "clo:miners:0x624fa348f4a193b100c0102f48931ddb29bee2ad": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763440",
+            "blocksFound": "44",
+            "immature": "0",
+            "balance": "7950796875000"
+        }
+    },
+    "clo:miners:0x624fc9732ad31a7de50d7abbbdfba2e4274fbfb1": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755707",
+            "blocksFound": "31",
+            "immature": "0",
+            "balance": "2029715625000"
+        }
+    },
+    "clo:miners:0x62a1a905ef40ba2acfcd0b8de2e65f4c1f7461b9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763440",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "3348384375000"
+        }
+    },
+    "clo:miners:0x62b4f09f326dcc007f7f9a52df058ead94cdda88": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "163",
+            "immature": "2275350000000",
+            "balance": "43231650000000"
+        }
+    },
+    "clo:miners:0x633f9f4626e1511ae2c6d2cb0b47632298628420": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "27",
+            "immature": "0",
+            "balance": "5119537500000"
+        }
+    },
+    "clo:miners:0x647ac6d36782a372c5b5857eb56eff3500afaf95": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761810",
+            "blocksFound": "16",
+            "immature": "0",
+            "balance": "2533912500000"
+        }
+    },
+    "clo:miners:0x6505aab2dc02d97a4e5344f1295ea303b28bfa3c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "124",
+            "immature": "2378775000000",
+            "balance": "30213028125000"
+        }
+    },
+    "clo:miners:0x661b74f561ae063c389a1a594c26c6589cf8b4c6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763433",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x682e0be7b3640a55b855c94a9a0a50dbacafbfcf": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763396",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0x68c6516132c18b350d0449a94940ce2535112205": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753668",
+            "blocksFound": "3"
+        }
+    },
+    "clo:miners:0x690655583602654f3d25b17269514ca8cf247248": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763427",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x691ea40ea45a88c40d53f24a892d93231e0af3e6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763437",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0x6acb35cbb3617e3be59a409ac4537892d535efda": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763403",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "723975000000"
+        }
+    },
+    "clo:miners:0x6addc509544b1e9fc6806bab729a0bac0faee687": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763203",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x6b1aa71c991b87bd4b028e65e87b8ce5d14b9388": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "1297",
+            "immature": "775687500000",
+            "balance": "281898026256000"
+        }
+    },
+    "clo:miners:0x6bb6d150e5d4c7c7dd67a430c4bd382ce07c8dc6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763436",
+            "blocksFound": "49",
+            "immature": "0",
+            "balance": "11312146608000"
+        }
+    },
+    "clo:miners:0x6cd37768683bc0db95c6fd55fe9518094f33dca9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763404",
+            "blocksFound": "1",
+            "immature": "413700000000"
+        }
+    },
+    "clo:miners:0x6cf00bfbe8dac38a76f914e093ef827dec0df47f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763362",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0x6d0b31ef423957586265a0ac3e3bccf3ba7b4bbe": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "69",
+            "immature": "1254028125000",
+            "balance": "16522143750000"
+        }
+    },
+    "clo:miners:0x6e0818ef34788db8839197ce25f87b2eeff917fb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "3"
+        }
+    },
+    "clo:miners:0x6ed82700a3df14165066e040ee2ae4556a911d4e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "16",
+            "immature": "0",
+            "balance": "3374240625000"
+        }
+    },
+    "clo:miners:0x6f75269cc1d13d95ad88809125d553791d1a62c6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "179",
+            "immature": "413700000000",
+            "balance": "37711340625000"
+        }
+    },
+    "clo:miners:0x6fe223319749ad0fb4b47b97936dea13d61cbad7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523757281",
+            "blocksFound": "4"
+        }
+    },
+    "clo:miners:0x703206efb657406d5fe96ff49e30ed5b9d0e386a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763342",
+            "blocksFound": "16",
+            "immature": "0",
+            "balance": "5365171875000"
+        }
+    },
+    "clo:miners:0x715d5f9cba8618fe2a6d00cfc6cdc0097d016449": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754195",
+            "blocksFound": "16",
+            "immature": "0",
+            "balance": "930825000000"
+        }
+    },
+    "clo:miners:0x719fa5dab7fde97fa963689caa8b08b4f96144c4": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763401"
+        }
+    },
+    "clo:miners:0x7230b260ec74ba80104db5af0f2dfe27060c119b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755784",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "1370381250000"
+        }
+    },
+    "clo:miners:0x72e46aeaa6fb07283a9acc89c70c468f7c3712cd": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523757521",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "943753125000"
+        }
+    },
+    "clo:miners:0x741b5eae78176b9a98325758846ca15997ca6ae9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759245",
+            "blocksFound": "34",
+            "immature": "0",
+            "balance": "6670912500000"
+        }
+    },
+    "clo:miners:0x742ee41c2a814ccfb6a854c6d6f8c3d2c09138b0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758615",
+            "blocksFound": "60",
+            "immature": "0",
+            "balance": "11273325000000"
+        }
+    },
+    "clo:miners:0x74581070e4c25087d3495765d1629309a2c09274": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763396",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "723975000000"
+        }
+    },
+    "clo:miners:0x74a2ca6d9746fdfe6fe03974da4e31cbd678564b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763398",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "5727159375000"
+        }
+    },
+    "clo:miners:0x74e050902b0fa3398c65cfa3298cd9a4a92d8d22": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453"
+        }
+    },
+    "clo:miners:0x76a1b103dd7ccfa70318199206e6dcf57ff7045a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758454",
+            "blocksFound": "76",
+            "immature": "0",
+            "balance": "10187399733000"
+        }
+    },
+    "clo:miners:0x777d6abdd6b65cb711dc99cd856271c2ae32863a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "32",
+            "immature": "0",
+            "balance": "6308925000000"
+        }
+    },
+    "clo:miners:0x778628e46ccdbc6f7769c905287d5a2a142a3114": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762536",
+            "blocksFound": "20",
+            "immature": "0",
+            "balance": "2921756250000"
+        }
+    },
+    "clo:miners:0x77fc4136f1672e33f9e8711daa9fd5944861496c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763392",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "1137675000000"
+        }
+    },
+    "clo:miners:0x7801bf13e4c2cfc0abbe69bf8037451778787cbc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753538",
+            "blocksFound": "6"
+        }
+    },
+    "clo:miners:0x783231deba1fafd90b4f146fdb21a374c29737ff": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755867",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0x787861da6f6256570eb43bf34490eb140679304e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "93",
+            "immature": "0",
+            "balance": "18784565625000"
+        }
+    },
+    "clo:miners:0x78a475fb45f54744cc021f260efb578172cb4880": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763422",
+            "blocksFound": "84",
+            "immature": "0",
+            "balance": "20167875000000"
+        }
+    },
+    "clo:miners:0x7915cbef569e600633d407f20c06f7e8c889e291": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523756317",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "672262500000"
+        }
+    },
+    "clo:miners:0x7a61c9ddde89a41575e27b1ee20618874384ff5e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754567",
+            "blocksFound": "42",
+            "immature": "0",
+            "balance": "4951509108000"
+        }
+    },
+    "clo:miners:0x7a90c946015f5815d7d0d7a7126a825f6c611e57": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762689",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0x7b1971f8f4f02c9ffbfbec202a375d6f7e400641": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759479",
+            "blocksFound": "30",
+            "immature": "0",
+            "balance": "4964400000000"
+        }
+    },
+    "clo:miners:0x7bbb7843b12294d0aebf5fb04f9c15a005ba923f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763337",
+            "blocksFound": "20",
+            "immature": "0",
+            "balance": "2184853125000"
+        }
+    },
+    "clo:miners:0x7bfb6c5dff99797f7d570a4059708f6a0fef1f44": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763323",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "1447950000000"
+        }
+    },
+    "clo:miners:0x7c869a40f592bd7f8c8b57857dca2dcf8e3adbc0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759918",
+            "blocksFound": "7",
+            "immature": "0",
+            "balance": "2857115625000"
+        }
+    },
+    "clo:miners:0x7d7b8f35f80098291fa5caa808d1439c732921d1": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754534",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0x7dad2f1dc9c2ade4c1abc481bd4b3c7ff57665cc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754647",
+            "blocksFound": "4"
+        }
+    },
+    "clo:miners:0x7e23c52c3f5bbe9d636c324b979aaa15c24d4345": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "274",
+            "immature": "413700000000",
+            "balance": "48868386966000"
+        }
+    },
+    "clo:miners:0x7fb21ac4cd75d9de3e1c5d11d87bb904c01880fc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763370",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "1564303125000"
+        }
+    },
+    "clo:miners:0x80409bebf551b77abc1e9abba9b6db919d245118": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761803"
+        }
+    },
+    "clo:miners:0x81221ac7f260976db53aeab20de2d13c4e566ee4": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "81",
+            "immature": "0",
+            "balance": "16651462233000"
+        }
+    },
+    "clo:miners:0x824b7fc2e7688f3c7051ea38e3023f2a05450c6d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761089",
+            "blocksFound": "10",
+            "immature": "0",
+            "balance": "1189387500000"
+        }
+    },
+    "clo:miners:0x828315ef884a9c2d88b3ce08e34559c701caf8f1": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763424",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "840328125000"
+        }
+    },
+    "clo:miners:0x82cc8572cd9054029fc40ebccc83d3c6ab5dd64b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758684",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "2908828125000"
+        }
+    },
+    "clo:miners:0x830299f83451652ccb1bfbc698b4a567641b2bcd": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761824",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "723975000000"
+        }
+    },
+    "clo:miners:0x84bd46032121e2d6cf825b2624295abb7c752f1f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763447",
+            "blocksFound": "66",
+            "immature": "0",
+            "balance": "10083937500000"
+        }
+    },
+    "clo:miners:0x84f838121bdb6e4dc817bab5921f8454f50a1b23": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523752536",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x85458bd7d7259fcd349b910fd5afea8a41b575fa": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763355"
+        }
+    },
+    "clo:miners:0x85a3233ca2ce9d61b24a9bc91e8a32af370d9e5d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763394",
+            "blocksFound": "17",
+            "immature": "0",
+            "balance": "4305102858000"
+        }
+    },
+    "clo:miners:0x8620c5ab1ff8f6f0fba9f1dc7b6ba716aa955790": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763392",
+            "blocksFound": "31",
+            "immature": "0",
+            "balance": "7873228125000"
+        }
+    },
+    "clo:miners:0x8686c9e8ab29871b93ac06023496c7799a4c5f4f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763393",
+            "blocksFound": "17",
+            "immature": "0",
+            "balance": "4382634375000"
+        }
+    },
+    "clo:miners:0x87bae30f4882b4c4dfefa008958fd90b56c98114": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523752796",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "672262500000"
+        }
+    },
+    "clo:miners:0x884a6e93cf6596c156065bfc2369af9544f3d03a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758593",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x886ccc928c9147043c43bb8b0b17679a142a3da8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761970"
+        }
+    },
+    "clo:miners:0x88b2902ee59b49939b1e645bf12d25558e0e0ff1": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763449",
+            "blocksFound": "336",
+            "immature": "840328125000",
+            "balance": "46489611966000"
+        }
+    },
+    "clo:miners:0x895b4ab0e7f9ad78e99300e8c2c0f1eb3ec386bd": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "23",
+            "immature": "413700000000",
+            "balance": "7653450000000"
+        }
+    },
+    "clo:miners:0x8a2e34928d3761ce5970fa8cde278b4582b3cc80": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763027"
+        }
+    },
+    "clo:miners:0x8aed79c951d15ff4fa786aacc7ad5022ab3edc15": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760928",
+            "blocksFound": "20",
+            "immature": "0",
+            "balance": "3762084375000"
+        }
+    },
+    "clo:miners:0x8b23c6d9e43c8644c63fe71216fab3d9afadb330": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523757749"
+        }
+    },
+    "clo:miners:0x8c9bd670542d56c5cdb87b70c771d658a2286ff5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763444",
+            "blocksFound": "18",
+            "immature": "0",
+            "balance": "4511915625000"
+        }
+    },
+    "clo:miners:0x8d020f02a58267d64353e32700314b54e13af882": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763410",
+            "blocksFound": "29",
+            "immature": "0",
+            "balance": "6502884108000"
+        }
+    },
+    "clo:miners:0x8d43952398a8b7cc5a54a8a20dcfc06a8561c9c6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763354",
+            "blocksFound": "4"
+        }
+    },
+    "clo:miners:0x8d44f8764b2b57c954e73f0ecd1b7a95c2a600ee": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759620",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "3115678125000"
+        }
+    },
+    "clo:miners:0x8dd44711498cf2b4830fe0f04830e9621f4cb987": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "112",
+            "immature": "0",
+            "balance": "32643515625000"
+        }
+    },
+    "clo:miners:0x8e1fac67598851eeb10919066e52f8447c487612": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762917",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0x8e2d52729504faeeabc5baf15a9193403283ea8b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "64",
+            "immature": "413700000000",
+            "balance": "21977812500000"
+        }
+    },
+    "clo:miners:0x8e458f94be3fc2677fb939c91428d8d776938401": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763441",
+            "blocksFound": "26",
+            "immature": "0",
+            "balance": "7032900000000"
+        }
+    },
+    "clo:miners:0x8f16bcd4348b659ff3b0f34679a7849e1dd89edb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760609",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x8f6b4526bf3d2d2a7eb35bbb23501213cb6107e5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763428",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "2753690625000"
+        }
+    },
+    "clo:miners:0x9377f7a6ed37f358a655138a2490a95325233649": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759212",
+            "blocksFound": "38",
+            "immature": "0",
+            "balance": "5572021875000"
+        }
+    },
+    "clo:miners:0x93b7d2060ee2e7df174793a169477a26a05f0d07": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754567",
+            "blocksFound": "4"
+        }
+    },
+    "clo:miners:0x93d628983aeacc536995fc21c829aa141442979b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763404",
+            "blocksFound": "17",
+            "immature": "0",
+            "balance": "3438881250000"
+        }
+    },
+    "clo:miners:0x93e27200e0ba34ce5f15a97948bf8312200f1a99": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763299",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0x9413af82aa0e614a7077aeaf8af7a9b734ccab0f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763447",
+            "blocksFound": "34",
+            "immature": "413700000000",
+            "balance": "10394212500000"
+        }
+    },
+    "clo:miners:0x94c7b1c9573de369340ce58799b6db2dbbfc2fb9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763278",
+            "blocksFound": "180",
+            "immature": "0",
+            "balance": "23994674466000"
+        }
+    },
+    "clo:miners:0x94cb066a7c9f87249327ecbb04c7b3640275192e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763426",
+            "blocksFound": "17",
+            "immature": "0",
+            "balance": "5856440625000"
+        }
+    },
+    "clo:miners:0x959549032d33c413393b7a5309cf04b51d6c5910": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763426",
+            "blocksFound": "24",
+            "immature": "0",
+            "balance": "6076218750000"
+        }
+    },
+    "clo:miners:0x96408dbe97ee4a729258952111de178927407846": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763374"
+        }
+    },
+    "clo:miners:0x96a49100f02d0d5b41d81fe22f962ca10b5625e9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763158",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x9741696dfce01c19e21442ef5da9240490047711": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0x979f8e067eace406b3c506a6e1a0ad2dd15470dc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759052",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "1034250000000"
+        }
+    },
+    "clo:miners:0x97d868e207b5b3d25d2dcfe262990442db2c69a1": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0x97de887de2e9f8918c6c9a8f5fc98662cb3789ed": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763315",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "206850000000"
+        }
+    },
+    "clo:miners:0x986ae1ef4b6780a60812f345e17bbedf728dc60e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763115"
+        }
+    },
+    "clo:miners:0x98a7993c94a5a51a4c4156bdb1465ccfe4806ac9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762910",
+            "blocksFound": "52",
+            "immature": "0",
+            "balance": "8765305983000"
+        }
+    },
+    "clo:miners:0x9987457e2cf255a891440471e3b5bb6d53cc9fd7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762044",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "310275000000"
+        }
+    },
+    "clo:miners:0x99f9b06b2785f59efb6576884067b84bb4eaeaeb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763309",
+            "blocksFound": "14",
+            "immature": "0",
+            "balance": "1835793750000"
+        }
+    },
+    "clo:miners:0x9a23b150a1d71d41ff593796951c663ef550a9b7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763432",
+            "blocksFound": "22",
+            "immature": "0",
+            "balance": "4369706250000"
+        }
+    },
+    "clo:miners:0x9b7d534e8a0389f44a3f899742e4291c3356a8d6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763424",
+            "blocksFound": "19",
+            "immature": "0",
+            "balance": "5339315625000"
+        }
+    },
+    "clo:miners:0x9c3bb8752eeae585ebf8e573b9dc5ea600805bd5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763376",
+            "blocksFound": "31",
+            "immature": "0",
+            "balance": "8713556250000"
+        }
+    },
+    "clo:miners:0x9c7483832be136751fa3186a59c4fcc177309f07": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760494",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "258562500000"
+        }
+    },
+    "clo:miners:0x9de5fdc65369f8296d0a0a43e93d6e0e8a93ccb3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "33",
+            "immature": "413700000000",
+            "balance": "7963725000000"
+        }
+    },
+    "clo:miners:0x9e0270109969804fab8780e30b3ef421395551e7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753501",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x9e03f3716da2f8584475efd6da025084697e3782": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763442",
+            "blocksFound": "53",
+            "immature": "0",
+            "balance": "11066475000000"
+        }
+    },
+    "clo:miners:0x9e83549b481584134061dab9ae57ea98158deed0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763439",
+            "blocksFound": "10",
+            "immature": "0",
+            "balance": "2508056250000"
+        }
+    },
+    "clo:miners:0x9f68ed49edc6c0e3f69e90192be341b2b94d3010": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759212",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0x9f73fea741e8506ba7acb477745dab1cfab8366e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523751903",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "749831250000"
+        }
+    },
+    "clo:miners:0x9f88e89219b529d7430139e4f75b72140a15b2bf": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762713"
+        }
+    },
+    "clo:miners:0x9fb639a0a343f1db60befadadfd1f44bf4b913bb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763440",
+            "blocksFound": "5",
+            "immature": "0",
+            "balance": "1809937500000"
+        }
+    },
+    "clo:miners:0xa0a07aed74f648df014f0b1f709aa89fbb57e5b3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758839",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0xa0a25500f3466f220be19dfda8631eab4950d0b1": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763198",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0xa0f5a8520535207f87445a129971e3c869745996": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763438",
+            "blocksFound": "27",
+            "immature": "0",
+            "balance": "5869405983000"
+        }
+    },
+    "clo:miners:0xa1f88c18776b0f49dee5dd67f6617a5b43333ddb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523757534",
+            "blocksFound": "50",
+            "immature": "0",
+            "balance": "11648277858000"
+        }
+    },
+    "clo:miners:0xa1fad50d68a21d9a7b692c3cacc2ee735d9d1800": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763429",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "3154462500000"
+        }
+    },
+    "clo:miners:0xa3fb8bbc2eae9ea92a5be3613c37d17219222afc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763411",
+            "blocksFound": "19",
+            "immature": "0",
+            "balance": "4240425000000"
+        }
+    },
+    "clo:miners:0xa4efda62dc23f00a45d94f1178ce64e179719d7c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758069",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "439556250000"
+        }
+    },
+    "clo:miners:0xa525711976509aad504f61c78ebbe0dfc4ac7966": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760893",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xa6055339a1fe55aa539085db2706df27060bd665": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763402",
+            "blocksFound": "10",
+            "immature": "0",
+            "balance": "1603087500000"
+        }
+    },
+    "clo:miners:0xa6208bd6e7cbd6221ecaa53678c1985a6fd1e48b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763442",
+            "blocksFound": "69",
+            "immature": "0",
+            "balance": "15138834375000"
+        }
+    },
+    "clo:miners:0xa70843ab1ec1d38b38c2036a82a17da75bef8267": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763283",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0xa8e9b904db43b2c564d947c592a4453b354acefc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760119",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xa98cefe9be1471a443ca2fe436f3988543c9df16": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763294",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "2766618750000"
+        }
+    },
+    "clo:miners:0xa9dbf029af4349e366e19a24b7de3246e2e21ebd": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "85",
+            "immature": "2327062500000",
+            "balance": "19314618750000"
+        }
+    },
+    "clo:miners:0xaabb0e7ce258de16bb58a2754989bb24724fd1c2": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763230",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0xab74770a4a360b7e178de97d0776673283a3c9ad": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "33",
+            "immature": "0",
+            "balance": "8015437500000"
+        }
+    },
+    "clo:miners:0xab8140174c6e46d78bed397b96da352ea38c2821": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "464",
+            "immature": "2857115625000",
+            "balance": "136572712500000"
+        }
+    },
+    "clo:miners:0xad7db03316600b5c5db50908e63fda5216c93e8e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523756780",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "775687500000"
+        }
+    },
+    "clo:miners:0xadf80bbef7aa12073a4af30ceff5bf5eeec022fc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "322",
+            "immature": "0",
+            "balance": "71298758307000"
+        }
+    },
+    "clo:miners:0xae27199687336e752213d57c2385ff46b92c7420": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763359"
+        }
+    },
+    "clo:miners:0xaf61508774dca13467c758a028ec4454098f9f58": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "70",
+            "immature": "0",
+            "balance": "14350218750000"
+        }
+    },
+    "clo:miners:0xb0dfe303038d2eb8d9f5f22bfc843f70134aeace": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763432",
+            "blocksFound": "20",
+            "immature": "0",
+            "balance": "3671587500000"
+        }
+    },
+    "clo:miners:0xb2d1ef4f05e6a3be14870e5b356bd3653a92a2e7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763414",
+            "blocksFound": "14",
+            "immature": "0",
+            "balance": "4809262500000"
+        }
+    },
+    "clo:miners:0xb2e06fce05ac8d12eb699be1ba7b28d46e92f64e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763445",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xb360f46109f176776f2decca97def366beb401cb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759865",
+            "blocksFound": "58",
+            "immature": "0",
+            "balance": "19560253125000"
+        }
+    },
+    "clo:miners:0xb4d34c107abdc45cf8f437cbca2578ed30bcab75": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763408"
+        }
+    },
+    "clo:miners:0xb508a309aa3ed49d6526f9838dccda1b01524758": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763401"
+        }
+    },
+    "clo:miners:0xb59bd7c44070f77f164a1c3061798fe0b437e418": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754212",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0xb5f84d94f50d5ad88f53cadf2ed14b45b6ea4fd6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763449",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "1667728125000"
+        }
+    },
+    "clo:miners:0xb6668f980ea378008fd2a416d650df75cba313f3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762111"
+        }
+    },
+    "clo:miners:0xb6c867d5de7a0490172721013baf3239b33e88c6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763437",
+            "blocksFound": "21",
+            "immature": "0",
+            "balance": "4938543750000"
+        }
+    },
+    "clo:miners:0xb77ab1b9bd2085bb306c9d79b43cb8f3504d2cad": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "116",
+            "immature": "0",
+            "balance": "20956490625000"
+        }
+    },
+    "clo:miners:0xb792efdd69c2727b6b17e2c4536b6eb9a655d058": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762137",
+            "blocksFound": "3"
+        }
+    },
+    "clo:miners:0xb7c0dbd18aa4c21bac66b9ceec31ea10181d5cb8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762916"
+        }
+    },
+    "clo:miners:0xb7de6114439c59a62461568f3ed96ac0ef292412": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759827",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "1538446875000"
+        }
+    },
+    "clo:miners:0xb845dae665028d20550b7273c734f052c9cf10c3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755689",
+            "blocksFound": "28",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0xb904188024276f39bb97285a7a4a06beb7d0271a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763147",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0xb9a2ce40c1d9ec3c6dc75b3f410a34587719bf0c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763420",
+            "blocksFound": "45",
+            "immature": "0",
+            "balance": "10652775000000"
+        }
+    },
+    "clo:miners:0xb9cf2da90bdff1bc014720cc84f5ab99d7974eba": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763386",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "1616015625000"
+        }
+    },
+    "clo:miners:0xba4a95038ffd9ec5a5595687f1a3b0737f296e31": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763445",
+            "blocksFound": "57",
+            "immature": "0",
+            "balance": "10730343750000"
+        }
+    },
+    "clo:miners:0xba6523e8c9845ae63571a52e00ea98e3588036aa": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763347",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "1499662500000"
+        }
+    },
+    "clo:miners:0xbb82e69915ff1f5b896a360fc5d7cb68a42e0b7c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762682"
+        }
+    },
+    "clo:miners:0xbbd3b3aa68eea3e5efb0a768d1b0729af6863db0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761182",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0xbd31bb07c82dfe902e866a8dcc13e8db29b29172": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761586"
+        }
+    },
+    "clo:miners:0xbda64415be7b2fd1f0f248f4555e0e298a295e3d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763444",
+            "blocksFound": "309",
+            "immature": "361987500000",
+            "balance": "71531315625000"
+        }
+    },
+    "clo:miners:0xbe15896f4c3631b9ab3981685de275fa093b8c10": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "281",
+            "immature": "413700000000",
+            "balance": "57000140358000"
+        }
+    },
+    "clo:miners:0xbeb68ca31a5622c1176ea15dd2d02de6466cc036": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763275",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0xc00231e67d8f338ab73a82359f4bd88eb9fc7764": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763436",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "840328125000"
+        }
+    },
+    "clo:miners:0xc1303898b273760cf4a965564e9ff4c6a68e0c57": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763431",
+            "blocksFound": "21",
+            "immature": "0",
+            "balance": "6438206250000"
+        }
+    },
+    "clo:miners:0xc14e12a676826908d20474ab66d1a30b3489db4a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763446",
+            "blocksFound": "30",
+            "immature": "0",
+            "balance": "5093718483000"
+        }
+    },
+    "clo:miners:0xc1c427cd8e6b7ee3b5f30c2e1d3f3c5536ec16f5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763390",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "1422093750000"
+        }
+    },
+    "clo:miners:0xc1e7fb5b0c8f8698fc184e697ef652458d6a241b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763439",
+            "blocksFound": "5",
+            "immature": "0",
+            "balance": "2107284375000"
+        }
+    },
+    "clo:miners:0xc21b414c08555a300639ac7c280469808f8fdf3a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "169",
+            "immature": "853256250000",
+            "balance": "37026150000000"
+        }
+    },
+    "clo:miners:0xc2c94f2d0f2ee46397e6c149116e0cd28e91a967": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762761"
+        }
+    },
+    "clo:miners:0xc34ee27ddfa60d31ebca340cc3b1c8eca47192ba": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "15",
+            "immature": "413700000000",
+            "balance": "3555271608000"
+        }
+    },
+    "clo:miners:0xc4e97e15b5c2fb17401c6592a5e792b6f23d2d28": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763068",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0xc5c92b55612e935db8591023e27ae54d3a4f39fc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763410"
+        }
+    },
+    "clo:miners:0xc61830f4b4a0769eac52e46670d94de2714b93b8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762396",
+            "blocksFound": "14",
+            "immature": "0",
+            "balance": "3348384375000"
+        }
+    },
+    "clo:miners:0xc6419438e539df196d139cea95a0fd55d83d343c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763444",
+            "blocksFound": "36",
+            "immature": "0",
+            "balance": "8442065625000"
+        }
+    },
+    "clo:miners:0xc6cef53d8a6360e148fd3a85add49d409fb494fe": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "18",
+            "immature": "361987500000",
+            "balance": "3994790625000"
+        }
+    },
+    "clo:miners:0xc6deb39dcc01ddf8e9a38917d45baff892d82539": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763445",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "736903125000"
+        }
+    },
+    "clo:miners:0xc6ed24af2b99029bc13f81c15751a256f24e7692": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763449",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "2882971875000"
+        }
+    },
+    "clo:miners:0xc6f31a79526c641de4e432cb22a88bb577a67eac": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763225",
+            "blocksFound": "13",
+            "immature": "0",
+            "balance": "4589521608000"
+        }
+    },
+    "clo:miners:0xc724c00488895ceb3097add762756ec5612c5b11": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763424",
+            "blocksFound": "36",
+            "immature": "0",
+            "balance": "7330246875000"
+        }
+    },
+    "clo:miners:0xc7a820f37e81ddfc478ba65cc604ed4dd8eb533e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761521",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "2469271875000"
+        }
+    },
+    "clo:miners:0xc9137693e68cc341c6a1441a3891f07a717b5f6a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "57",
+            "immature": "0",
+            "balance": "12553209375000"
+        }
+    },
+    "clo:miners:0xc924b40d0bb5a613fff8e473994d799fd0bc15f3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "6",
+            "immature": "413700000000",
+            "balance": "1551375000000"
+        }
+    },
+    "clo:miners:0xcb1792eb8cb4a0be6c528684739c4f0c73317e6b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763449",
+            "blocksFound": "8",
+            "immature": "0",
+            "balance": "853256250000"
+        }
+    },
+    "clo:miners:0xcb50aa856fadfd3961d7b99a03f77afffb1b30b6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760054",
+            "blocksFound": "164",
+            "immature": "0",
+            "balance": "35448918750000"
+        }
+    },
+    "clo:miners:0xcba9a222b998f5ff59538d6c8e5fe38e15303e0c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754650",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xcc5b2e5e8f0ef6dbf1ac2966084b1557ceddc104": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "3658659375000"
+        }
+    },
+    "clo:miners:0xcf0b3b473a172f07cea76220a84a505d549f141c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759635",
+            "blocksFound": "10",
+            "immature": "0",
+            "balance": "3089821875000"
+        }
+    },
+    "clo:miners:0xcfbdf2ddf11065781c14f623b5e4d0816d004c66": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523761728",
+            "blocksFound": "209",
+            "immature": "0",
+            "balance": "42119831250000"
+        }
+    },
+    "clo:miners:0xd0595f860d351b2d72f20376dd7a96b9206bf13b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763431"
+        }
+    },
+    "clo:miners:0xd116f82b3805402c49e6ad863846ec17cc73c700": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763429",
+            "blocksFound": "60",
+            "immature": "0",
+            "balance": "12243008841000"
+        }
+    },
+    "clo:miners:0xd279991863af49804c1c488a295dc23f759444a6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754209",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0xd3aa27e8bd282ef2ee31817b44e0c8835245d9b9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523752853",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0xd3dcee5458f3037c2038d57cb12b54d5987a1f28": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763350",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "1926290625000"
+        }
+    },
+    "clo:miners:0xd3efef510339fecdbfdeeb47af73370a91ce1ad6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762984",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "361987500000"
+        }
+    },
+    "clo:miners:0xd4a1d4cb0a17727ce080d46ea50bdc8efb34452c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763418",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0xd4df34d8cd556d18121132b72b2a15009721ea0f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "71",
+            "immature": "0",
+            "balance": "16909987500000"
+        }
+    },
+    "clo:miners:0xd5ee392bf1594a5e8652cd6bf52cff48ec528aae": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763431",
+            "blocksFound": "2",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0xd75921c3d8b36d7d073060d5c65fa5d4119053f8": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763441",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "1241100000000"
+        }
+    },
+    "clo:miners:0xd783fbcab57031292e3985cf48e440ca505e17c2": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "3",
+            "immature": "413700000000",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0xd7b28de0e5469474bb205a537d58d98cce16be6c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763275",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "206850000000"
+        }
+    },
+    "clo:miners:0xd7b7f5c36ea56ec2e3cd31dbb1d9db648a3917e9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759649"
+        }
+    },
+    "clo:miners:0xd8985e1971489d4135ae70e35fcd9de9bf429d81": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763446",
+            "blocksFound": "49",
+            "immature": "0",
+            "balance": "11674134108000"
+        }
+    },
+    "clo:miners:0xda10f4d20f5b5438084d98442b83417c15a7fad0": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763437",
+            "blocksFound": "5",
+            "immature": "413700000000",
+            "balance": "1150603125000"
+        }
+    },
+    "clo:miners:0xdacf3a2e2e56067399d2a1e2f7d76ee02c44c30e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754794",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xdc896d136508e302e06ea710c1f47eda913f5b89": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762985"
+        }
+    },
+    "clo:miners:0xdd1d7aaf6023afdef30b7294e0db4b1588bd61a5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760520",
+            "blocksFound": "191",
+            "immature": "0",
+            "balance": "44369362233000"
+        }
+    },
+    "clo:miners:0xddbaff1c47f2ff5cfbd32cc0058d8113fb97afca": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760787",
+            "blocksFound": "26",
+            "immature": "0",
+            "balance": "8868693750000"
+        }
+    },
+    "clo:miners:0xddef9ead5ee7ce54bc0c507d4e8a1651b6d57716": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763443",
+            "blocksFound": "27",
+            "immature": "0",
+            "balance": "7743946875000"
+        }
+    },
+    "clo:miners:0xde088812a9c5005b0dc8447b37193c9e8b67a1ff": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763393",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "1525518750000"
+        }
+    },
+    "clo:miners:0xde7da942957c6edd46ac56499f382b0acf6f1a7c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763385",
+            "blocksFound": "220",
+            "immature": "0",
+            "balance": "48286546875000"
+        }
+    },
+    "clo:miners:0xdf7ad46fe627417b0d0f5e27bfb5996e7be8a8a5": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763442",
+            "blocksFound": "29",
+            "immature": "0",
+            "balance": "3943078125000"
+        }
+    },
+    "clo:miners:0xdfa73ecb406c859970724b285f07a928eb010c79": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758184",
+            "blocksFound": "11",
+            "immature": "0",
+            "balance": "2508056250000"
+        }
+    },
+    "clo:miners:0xe03654fc20878154590f523a1a0aad8f045aca94": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523756335",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0xe046dc0254a4adf5758c8fe53ba95441ae3e7e43": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763226",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xe0a261defdf8726a1cf8ec686bd3ccf086d2fa84": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523758489"
+        }
+    },
+    "clo:miners:0xe19ffb70e148a76d26698036a9ffd22057967d1b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763337",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "361987500000"
+        }
+    },
+    "clo:miners:0xe2923b051b680a602d2bf2482eff9603e4c3c3f7": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523759813"
+        }
+    },
+    "clo:miners:0xe3496bf26b273aa8f586472cf0e90f8bb40affd9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763324"
+        }
+    },
+    "clo:miners:0xe3ae4c34d4525cf7b8f3f29b9cb4b0004447d874": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763287",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "1680656250000"
+        }
+    },
+    "clo:miners:0xe584eb08bdff96c550ecae244996eb7ddf099968": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "51",
+            "immature": "426628125000",
+            "balance": "12902268750000"
+        }
+    },
+    "clo:miners:0xe729da599a96825cc317fde2c44077c8718c8252": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763180",
+            "blocksFound": "3",
+            "immature": "0",
+            "balance": "1189387500000"
+        }
+    },
+    "clo:miners:0xe7558c39ae80443cd4af73cdecfbca9e564fbe49": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760466"
+        }
+    },
+    "clo:miners:0xe7e1579138d4f64ff01b8b269ff0fb2d63ece0f4": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "426628125000"
+        }
+    },
+    "clo:miners:0xe848a9f407bf7a6a73c2f34a39158ce44cf1e01a": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754335",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xe8b6818cf0d24bd0e7ded854b3d368662a150dab": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763176",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xe8cddd9be1ec6099a92e1ea47bb0dd42cda0eb65": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763429",
+            "blocksFound": "6",
+            "immature": "0",
+            "balance": "1564303125000"
+        }
+    },
+    "clo:miners:0xe96ae7fdd1a56a3fe0d05df2c76e7845257148a4": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "137",
+            "immature": "0",
+            "balance": "37543275000000"
+        }
+    },
+    "clo:miners:0xe9d4d1c0d911792c2f60126e0e86b8d6670e682d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763448",
+            "blocksFound": "17",
+            "immature": "0",
+            "balance": "5003184375000"
+        }
+    },
+    "clo:miners:0xe9fcc6601abd13d7a504ea3e728cf68f1b4235cb": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523752827",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xea046c265a04596243420af4a14994a881331b71": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "201",
+            "immature": "840328125000",
+            "balance": "48558074733000"
+        }
+    },
+    "clo:miners:0xea9ba8f821c4ca60553a9fc5c81a597afeaf5c32": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763426",
+            "blocksFound": "60",
+            "immature": "0",
+            "balance": "8985046875000"
+        }
+    },
+    "clo:miners:0xec64c7ac585adba8fb28a1977f7f98bcc9b82e9f": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "3251",
+            "immature": "12811771875000",
+            "balance": "675882523932000"
+        }
+    },
+    "clo:miners:0xec7f2630de45f50b1466b8a5977b434d148f23ad": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523760898"
+        }
+    },
+    "clo:miners:0xeca37e1fc05c7597ffdf4e10d479ae5f6dd15dc2": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763422",
+            "blocksFound": "12",
+            "immature": "426628125000",
+            "balance": "3581090625000"
+        }
+    },
+    "clo:miners:0xeca3e736c1a3db9812a924b0b28a50231dabc41e": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763439",
+            "blocksFound": "37",
+            "immature": "0",
+            "balance": "8067150000000"
+        }
+    },
+    "clo:miners:0xed74f6b198de140639c17f3eb8ee9fee80311cbd": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763452",
+            "blocksFound": "31",
+            "immature": "827400000000",
+            "balance": "4873903125000"
+        }
+    },
+    "clo:miners:0xeda22dbbfdeb33f870df9f6aa95fa71d158452da": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763442",
+            "blocksFound": "26",
+            "immature": "0",
+            "balance": "6192571875000"
+        }
+    },
+    "clo:miners:0xee09361a8a53dd37e17353db203b24a8f0852931": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523753608",
+            "blocksFound": "32",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0xee3f04cfbbcb8ed8923a17dac500603ca80293ba": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523756933",
+            "blocksFound": "2"
+        }
+    },
+    "clo:miners:0xf066cb5c828d45908dbaddf6aad5bf037027badc": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763412",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "827400000000"
+        }
+    },
+    "clo:miners:0xf1b64caf055f63240790c3ec40bde378ce158634": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763201",
+            "blocksFound": "33",
+            "immature": "0",
+            "balance": "9734878125000"
+        }
+    },
+    "clo:miners:0xf2d8327c827d095373ebe37d63cc59140f280425": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523751413",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xf2d994ea1c45173a326970f6bbc2aeade2ebeb71": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763445"
+        }
+    },
+    "clo:miners:0xf337436c3c13f5631739e6aff46ab4efe7fd1cc6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763454",
+            "blocksFound": "89",
+            "immature": "3710371875000",
+            "balance": "20206659375000"
+        }
+    },
+    "clo:miners:0xf3b4a9aecfd8330e4ab1956a7f71ace6c8f85234": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763445",
+            "blocksFound": "35",
+            "immature": "310275000000",
+            "balance": "12217078125000"
+        }
+    },
+    "clo:miners:0xf6d8ba11d3da176c908a6f9753e5c522582ca974": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523752105",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xf7af6bdefea9848e68392e5c7dc20c57510692da": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763453",
+            "blocksFound": "4",
+            "immature": "0",
+            "balance": "1215243750000"
+        }
+    },
+    "clo:miners:0xf87890e7ce6925693160045132ee21b84574f4ee": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754356",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xfaf41d5de597419d81b152f5ef8041ea26a32a5d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523762464",
+            "blocksFound": "9",
+            "immature": "0",
+            "balance": "2533912500000"
+        }
+    },
+    "clo:miners:0xfb102b339ab03212df316ce30b970a4bb578b6c9": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763422",
+            "blocksFound": "18",
+            "immature": "0",
+            "balance": "2805403125000"
+        }
+    },
+    "clo:miners:0xfb2dce2ca4d56bd6850fe1548948608a8aa707b3": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763441",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "2598553125000"
+        }
+    },
+    "clo:miners:0xfc34a5b27fa63d2960a25b854c0ed7becd4a5f2c": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763450",
+            "blocksFound": "18",
+            "immature": "0",
+            "balance": "5197143483000"
+        }
+    },
+    "clo:miners:0xfc9d4033fd40203d6af528432ef23bddceae1603": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763431",
+            "blocksFound": "15",
+            "immature": "0",
+            "balance": "5106609375000"
+        }
+    },
+    "clo:miners:0xfd062b8b9327c47226a9e7846a38074b8059dd06": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763451",
+            "blocksFound": "218",
+            "immature": "0",
+            "balance": "67639950000000"
+        }
+    },
+    "clo:miners:0xfd4aad4e53b881b01137138e0da9a19bddba0d1d": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523755160",
+            "blocksFound": "1"
+        }
+    },
+    "clo:miners:0xfde94ac0ca00187966f5bdd50507ef51fa9e28d6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523754900",
+            "blocksFound": "4"
+        }
+    },
+    "clo:miners:0xfe1481040e4303d221cff64a7bbcfb303c79890b": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763323",
+            "blocksFound": "1",
+            "immature": "0",
+            "balance": "413700000000"
+        }
+    },
+    "clo:miners:0xfebc814eac2b06f3d97fefd707aa35b836f842f6": {
+        "type": "hash",
+        "value": {
+            "lastShare": "1523763441",
+            "blocksFound": "26",
+            "immature": "0",
+            "balance": "9217753125000"
+        }
+    }
+}
